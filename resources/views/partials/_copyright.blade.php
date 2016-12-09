@@ -4,10 +4,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <p>
-                    Copyright &copy; 2015 Span - Designed & Developed by
-                    <a href="http://graygrids.com">
-                        GrayGrids
-                    </a>
+                    Copyright &copy; 2016 Technispire Inc
                 </p>
             </div>
             <!-- .col-md-6 -->

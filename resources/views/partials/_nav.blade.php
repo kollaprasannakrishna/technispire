@@ -8,9 +8,16 @@
                 </i>
             </button>
             <!-- End Toggle Nav Link For Mobiles -->
-            <a class="navbar-brand" href="index.html">
-                <img alt="" src="assets/img/logo.png">
-            </a>
+            <!--a class="navbar-brand" href="index.html">
+                <img alt="" src="assets/img/logo/technispire_logo.png" class="img-responsive">
+            </a-->
+
+                <div class="row nav-logo" style="margin-top: -15px;">
+                    <div class="navbar-brand col-lg-6 col-md-6 col-sm-6 col-xs-6 ">
+                        <img alt="" src="assets/img/logo/technispire-new-logo_rao.png" class="img-responsive">
+                    </div>
+                </div>
+
         </div>
         <div class="navbar-collapse collapse">
             <!-- Stat Search -->
@@ -36,40 +43,57 @@
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a class="{{Request::is('/')?"active":""}}" href="{{route('home')}}">
-                        Home
+                        <h5>Home</h5>
                     </a>
 
                 </li>
                 <li>
                     <a>
-                       Services
+                       <h5>Services</h5>
                     </a>
                     <ul class="dropdown">
+                        <li>
+                            <a href="{{route('apiIntegration')}}">
+                                A2A Integration
+                            </a>
+                        </li>
                         <li>
                             <a href="{{route('b2bintegration')}}">
                                 B2B Integration
                             </a>
                         </li>
                         <li>
+                            <a href="{{route('b2bintegration')}}">
+                                B2C Integration
+                            </a>
+                        </li>
+                        <li>
                             <a href="{{route('apiIntegration')}}">
-                                API Integration
+                                B2G Integration
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="{{route('apiIntegration')}}">
+                                EDI Systems Integration
                             </a>
                         </li>
                     </ul>
+
                 </li>
                 <li>
                     <a class="{{Request::is('about')?"active":""}}" href="{{route('about')}}">
-                        About Us
+                        <h5>About Us</h5>
                     </a>
                 </li>
                 <li>
-                    <a href="portfolio-3.html">
-                        Clients
+                    <a class="{{Request::is('Clients')?"active":""}}" href="{{route('clients')}}">
+                        <h5>Clients</h5>
                     </a>
                 </li>
                 <li>
                     <a class="{{Request::is('contact')?"active":""}}" href="{{route('contact')}}">
-                        Contact
+                        <h5>Contact</h5>
                     </a>
                 </li>
             </ul>
@@ -79,6 +103,7 @@
 
     <!-- Mobile Menu Start -->
     <ul class="wpb-mobile-menu">
+
         <li>
             <a class="active" href="{{route('home')}}">
                 Home
@@ -108,7 +133,7 @@
             </a>
         </li>
         <li>
-            <a href="portfolio-3.html">
+            <a href="{{route('clients')}}">
                 Clients
             </a>
         </li>

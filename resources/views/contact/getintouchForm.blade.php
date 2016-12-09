@@ -54,18 +54,18 @@
                         </div>
                         <div class="info">
                             <h3>Address</h3>
-                            <span class="detail">Main Office: NO.22-23 Street Name- City,Country</span>
-                            <span class="datail">Customer Center: NO.130-45 Streen Name- City, Country</span>
+                            <span class="detail">Main Office: 1375 Burnett Dr- Aurora,IL</span>
+                            <span class="datail">Customer Center: 1375 Burnett Dr- Aurora,IL</span>
                         </div>
                     </div>
                     <div class="contact-datails">
                         <div class="icon">
-                            <i class="fa fa-phone icon-radius"></i>
+                            <a href="tel:1-708-800-6146"><i class="fa fa-phone icon-radius"></i></a>
                         </div>
                         <div class="info">
                             <h3>Phone Numbers</h3>
-                            <span class="detail">Main Office: +880 123 456 789</span>
-                            <span class="datail">Customer Supprort: +880 123 456 789 </span>
+                            <span class="detail">Main Office: +1 (708) 800-6146</span>
+                            <span class="datail">Customer Supprort: +1 (708) 800-6146</span>
                         </div>
                     </div>
                     <div class="contact-datails">
@@ -75,8 +75,8 @@
                         <div class="info">
                             <h3>Email Address</h3>
                             <span class="detail">Customer
-                    Support: info@mail.com</span>
-                            <span class="datail">Technical Support: support@mail.com</span>
+                    Support: hr@technispire.com</span>
+                            <span class="datail">Technical Support: hr@technispire.com</span>
                         </div>
                     </div>
                     <div class="contact-datails">
@@ -85,7 +85,7 @@
                         </div>
                         <div class="info">
                             <h3>Other Datails</h3>
-                            <span class="detail">Site Name: <a href="http://graygrids.com/">Graygrids.com</a></span>
+                            <span class="detail">Site Name: <a href="http://technispire.com/">Technispire.com</a></span>
                         </div>
                     </div>
                 </div>

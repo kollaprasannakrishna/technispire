@@ -30,3 +30,7 @@ Route::get('apiIntegration',['uses'=>'PagesController@getapiIntegration',
 Route::get('about',['uses'=>'PagesController@getAboutUs',
     'as'=>'about'
 ]);
+
+Route::get('Clients',['uses'=>'PagesController@getClients',
+    'as'=>'clients'
+]);

@@ -21,4 +21,7 @@ class PagesController extends Controller
     public function getAboutUs(){
         return view('pages.about');
     }
+    public function getClients(){
+        return view('pages.client');
+    }
 }

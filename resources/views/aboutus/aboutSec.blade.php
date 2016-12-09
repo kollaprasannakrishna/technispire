@@ -1,5 +1,5 @@
 <!-- Start About Us Section  -->
-<section class="about-us">
+<section class="about-us add-margin-20">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -17,20 +17,21 @@
                 </div>
                 <!-- End Touch Slider -->
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 text-justify">
                 <!-- Classic Heading -->
                 <h4 class="classic-title">
                 <span>
-                Welcome To Our Agency
+                Welcome To Technispire
                 </span>
                 </h4>
                 <img class="m-left" src="assets/img/avatar.png" alt="">
                 <p>
-                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+                    Since our humble beginnings in 2016 we are in the process of growing with our people. We believe people are our most valuable assets and we are keen on providing best in class training for them. Our goal is to help clients to bridge the gap between their potential and performance by providing top-notch technical integration solutions and help them realize their return on investment in a timely manner.
                 </p>
                 <p>
-                    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Sed ut perspiciatis unde omnis iste natus error sit volup accusantium. Lorem ipsum dolor sit amet, consectetur.
+                    We sincerely understand that Integration knowledge is the capital of our business and hence we seek opportunities to improve our Integration knowledge and expertise by taking on challenging assignments.
                 </p>
+                <p>Our clients are happy with not just our technical competence but also with our integration processes and communications. We are always on the hunt to work on new and exciting opportunities, challenges that propel our growth to next level.</p>
             </div>
         </div>
     </div>
