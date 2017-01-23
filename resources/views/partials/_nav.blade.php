@@ -53,7 +53,7 @@
                     </a>
                     <ul class="dropdown">
                         <li>
-                            <a href="{{route('apiIntegration')}}">
+                            <a href="{{route('a2aintegration')}}">
                                 A2A Integration
                             </a>
                         </li>
@@ -63,18 +63,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="{{route('b2bintegration')}}">
-                                B2C Integration
-                            </a>
-                        </li>
-                        <li>
-                            <a href="{{route('apiIntegration')}}">
-                                B2G Integration
-                            </a>
-                        </li>
-
-                        <li>
-                            <a href="{{route('apiIntegration')}}">
+                            <a href="{{route('ediintegration')}}">
                                 EDI Systems Integration
                             </a>
                         </li>
@@ -116,15 +105,21 @@
             </a>
             <ul class="dropdown">
                 <li>
+                    <a href="{{route('a2aintegration')}}">
+                        A2A Integration
+                    </a>
+                </li>
+                <li>
                     <a href="{{route('b2bintegration')}}">
                         B2B Integration
                     </a>
                 </li>
                 <li>
-                    <a href="{{route('apiIntegration')}}">
-                        API Integration
+                    <a href="{{route('ediintegration')}}">
+                        EDI Systems Integration
                     </a>
                 </li>
+
             </ul>
         </li>
         <li>

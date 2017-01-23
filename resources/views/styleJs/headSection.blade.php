@@ -27,11 +27,12 @@
 <!-- Css3 Transitions Styles  -->
 <link rel="stylesheet" type="text/css" href="assets/css/animate.css" media="screen">
 <!-- Selected Preset -->
+<link rel="stylesheet" type="text/css" href="assets/css/colors/blue.css" title="blue" media="screen" />
 <link rel="stylesheet" type="text/css" href="assets/css/colors/pink.css" media="screen" />
 <!-- Color CSS Styles  -->
-<link rel="stylesheet" type="text/css" href="assets/css/colors/blue.css" title="blue" media="screen" />
+
 <!--link rel="stylesheet" type="text/css" href="assets/css/colors/red.css" title="red" media="screen" /-->
-<link rel="stylesheet" type="text/css" href="assets/css/colors/jade.css" title="jade" media="screen" />
+{{--<link rel="stylesheet" type="text/css" href="assets/css/colors/jade.css" title="jade" media="screen" />
 <link rel="stylesheet" type="text/css" href="assets/css/colors/green.css" title="green" media="screen" />
 <link rel="stylesheet" type="text/css" href="assets/css/colors/beige.css" title="beige" media="screen" />
 <link rel="stylesheet" type="text/css" href="assets/css/colors/cyan.css" title="cyan" media="screen" />
@@ -40,7 +41,7 @@
 <link rel="stylesheet" type="text/css" href="assets/css/colors/pink.css" title="pink" media="screen" />
 <link rel="stylesheet" type="text/css" href="assets/css/colors/purple.css" title="purple" media="screen" />
 <link rel="stylesheet" type="text/css" href="assets/css/colors/sky-blue.css" title="sky-blue" media="screen" />
-<link rel="stylesheet" type="text/css" href="assets/css/colors/yellow.css" title="yellow" media="screen" />
+<link rel="stylesheet" type="text/css" href="assets/css/colors/yellow.css" title="yellow" media="screen" />--}}
 <!--[if IE 8]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->

@@ -1,10 +1,11 @@
 <!-- Start Content -->
-<div id="content">
+<div id="content" class="content-back">
     <div class="container">
         <div class="page-content">
             <!-- Start Service Section -->
             <div class="row text-justify">
-                <h2 class="page-header text-center">Painless Seamless Integration!</h2>
+                <h2 class="text-center add-margin-10">Painless Seamless Integration!</h2>
+                <hr>
                 <!-- Start Service Icon 1 -->
                 <div class="col-md-4 col-sm-6" data-animation="fadeIn" data-animation-delay="01">
                     <div class="service-box">
@@ -14,12 +15,11 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Global Systems Management 
+                                Smooth to get started
                             </h4>
                             <p>
-                                Ensuring that external trading partner connectivity is highly available, this is critical to the smooth
-
-                                running of an integrated SAP/B2B environment.
+                                Agility to keep critical business and financial information up to date and make better, faster
+                                business decisions.
                             </p>
                         </div>
                     </div>
@@ -34,12 +34,11 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Visibility, Alerting and Analytics –
+                                Very useful custom widget
                             </h4>
                             <p>
-                                SAP B2B Add-on provides business process visibility and exception-based monitoring for a
-
-                                business and its customers.
+                                Scalability to take on legacy data functionality and grow with your business without constantly
+                                interrupting daily workflows.
                             </p>
                         </div>
                     </div>
@@ -54,13 +53,11 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                SAP Connectivity 
+                                Psd layered file
                             </h4>
                             <p>
-                                B2B integration platforms must be connected to the
-                                numerous different instances of SAP running at local manufacturing
-                                plants, retail stores, shared service centers and headquarters
-                                locations. 
+                                Interoperability to meld legacy applications, back-end application integration systems (such as
+                                Salesforce and SAP), homegrown scripts, and cloud applications.
                             </p>
                         </div>
                     </div>
@@ -75,14 +72,11 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Data &amp; Process Intelligence 
+                                Attention to every plxel
                             </h4>
                             <p>
-                                Ideally, SAP systems can only
-                                operate efficiently and offer maximum ROI when they are fed with clean
-                                and accurate information. SAP PO uses a robust business rules engine
-                                based on over 150 of the most common supply chain-related SAP
-                                business rules. 
+                                Automation that taps workflow and event processing and content-based routing to eliminate
+                                painstaking manual file transfer processes.
                             </p>
                         </div>
                     </div>
@@ -97,14 +91,12 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Mapping &amp; Translation 
+                                cool & flexible layout
                             </h4>
                             <p>
-                                Document mapping is one of the most
-                                complex tasks to undertake during an SAP to B2B integration project.
-                                Mapping experts must understand the relationships between data
-                                structures used by external trading partners and the information needed
-                                in SAP.
+                                Auditability for tracking HR and expense reporting, benefits claims, and proprietary file sharing,
+                                especially in highly regulated industries where meeting mandates means all audit trails all the
+                                time.
                             </p>
                         </div>
                     </div>
@@ -119,12 +111,10 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Partner Onboarding 
+                                Super clean design
                             </h4>
                             <p>
-                                Most SAP projects are not purely technical in
-                                nature, functionality upgrades are usually the justification for
-                                investment.
+                                Sed libero. Phasellus leo dolor, tempus non, tempus non, auctoret, hendreit quis, nisi. Nunc egestas, augue at pellentesque.
                             </p>
                         </div>
                     </div>
@@ -138,6 +128,6 @@
             <!-- Divider -->
             <div class="hr1" style="margin-bottom:45px;"></div>
 
+            </div>
         </div>
     </div>
-</div>

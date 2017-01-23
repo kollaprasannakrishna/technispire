@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 /*You can add your won color also */
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family:sans-serif;
   font-size: 13px;
   line-height: 21px;
-  font-weight: 600;
-  color: #666;
+  font-weight: 100;
+  color: #464343;
   /*background: url(../img/patterns/1.png) fixed repeat;*/
 }
 strong,
@@ -53,36 +53,36 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
+  font-weight: 100;
   margin: 0;
 }
 h1 {
+  font-size: 26px;
+  line-height: 32px;
+}
+h2 {
   font-size: 24px;
   line-height: 30px;
 }
-h2 {
-  font-size: 22px;
-  line-height: 28px;
-}
 h3 {
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 26px;
 }
 h4 {
-  font-size: 16px;
-  line-height: 22px;
+  font-size: 18px;
+  line-height: 24px;
 }
 h5 {
   font-size: 14px;
   line-height: 20px;
 }
 h6 {
-  font-size: 12px;
-  line-height: 18px;
+  font-size: 14px;
+  line-height: 20px;
 }
 p {
   color: #666;
-  font-size: 13px;
+  font-size: 14px;
   font-family: 'Open Sans', sans-serif;
   line-height: 22px;
   margin: 0;
@@ -1504,7 +1504,7 @@ ul.social-list li a.vimeo:hover {
   background-attachment: scroll !important;
 }
 .features .features-item {
-  padding: 60px 0;
+  padding: 30px 0;
 }
 .features .features-item .features {
   margin-bottom: 60px;
@@ -1517,7 +1517,7 @@ ul.social-list li a.vimeo:hover {
 }
 .features .features-item .features-content {
   margin-left: 80px;
-  padding-right: 68px;
+
 }
 .features .features-item .features-content h3 {
   padding-bottom: 8px;
@@ -1925,7 +1925,7 @@ ul.icons-list li i {
 }
 footer {
   background-color: #2D3E50;
-  padding-top: 60px;
+  padding-top: 20px;
   color: #ccc;
 }
 footer p {
@@ -2705,7 +2705,7 @@ footer a {
 }
 .purchase {
   background-image: url("../img/parallax/bg-02.jpg");
-  padding: 100px 0;
+  padding: 20px 0;
   background-attachment: fixed;
   background-position: 50% 0;
 }
@@ -3202,9 +3202,9 @@ img.m-left {
   margin-bottom: 20px;
 }
 blockquote {
-  padding: 20px 0;
+
   position: relative;
-  margin: 30px 0;
+
   border-left-color: transparent;
 }
 blockquote i {
@@ -3408,7 +3408,7 @@ blockquote .quote-text {
   margin-right: 10px;
 }
 .project {
-  margin-top: 50px;
+  margin-top: 20px;
 }
 .recent-projects h4.title {
   margin-bottom: 16px;
@@ -4538,22 +4538,55 @@ html {
 .add-margin-10{
   margin-top: 10px;
 }
-
+.vision{
+  padding-top: 5px;
+}
 .vision img{
-  padding: 20px;
-  margin-top: 35px;
-  margin-bottom: 35px;
+  width: 200px;
 }
 .vision-bg{
   background-color:#dcdcdc ;
 }
 .quote{
-  margin-top: 20px;
-  margin-bottom: 20px;
+
 }
 
 @media screen and (min-width: 600px)and (max-width: 3000px) {
 .nav-logo{
   margin-top: -20px;
 }
+}
+
+.fixed-col-height{
+  height: 100px;
+}
+
+/*Custom changes*/
+.remove-margin-top{
+  margin-top: 0px;
+}
+.remove-margin{
+  margin: 0;
+}
+.remove-margin-bottom{
+  margin-bottom: 0px;
+}
+.add-bottom-20{
+  margin-bottom: 20px;
+}
+
+.add-padding-top-60{
+  padding-top: 60px ;
+}
+
+.content-back{
+  background-color: rgb(16, 18, 21);
+  color:rgb(235, 233, 236);
+}
+.content-back p{
+  color: #d8dae0 !important;
+}
+
+.footer-widget img{
+  width: 250px;
 }

@@ -19,13 +19,20 @@ Route::get('contact',['uses'=>'PagesController@getContact',
     'as'=>'contact'
 ]);
 
+Route::get('a2aIntegration',['uses'=>'PagesController@geta2aIntegration',
+    'as'=>'a2aintegration'
+]);
+
 Route::get('b2bIntegration',['uses'=>'PagesController@getb2bIntegration',
     'as'=>'b2bintegration'
 ]);
-
-Route::get('apiIntegration',['uses'=>'PagesController@getapiIntegration',
-    'as'=>'apiIntegration'
+Route::get('ediIntegration',['uses'=>'PagesController@getediIntegration',
+    'as'=>'ediintegration'
 ]);
+
+//Route::get('apiIntegration',['uses'=>'PagesController@getapiIntegration',
+//    'as'=>'apiIntegration'
+//]);
 
 Route::get('about',['uses'=>'PagesController@getAboutUs',
     'as'=>'about'

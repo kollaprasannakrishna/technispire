@@ -8,9 +8,7 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/saplogo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-1.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
+
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -29,9 +27,6 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/sunlogo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-2.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -50,9 +45,6 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/astellaslogo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-3.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -71,9 +63,6 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/exxonlogo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-1.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -92,9 +81,6 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/nyselogo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-2.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -113,9 +99,9 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/searslogo.png" alt="" />
-                            <div class="overlay">
+                            {{--<div class="overlay">
                                 <a href="assets/img/portfolio/img-3.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
+                            </div>--}}
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -134,9 +120,6 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/usdalogo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-4.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -155,9 +138,6 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/wiprologo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-5.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">
@@ -176,9 +156,6 @@
                     <div class="portfolio-item">
                         <div class="portfolio-img">
                             <img src="assets/img/clients/kraftlogo.png" alt="" />
-                            <div class="overlay">
-                                <a href="assets/img/portfolio/img-6.jpg" class="lightbox"><i class="more icon-plus"></i></a>
-                            </div>
                         </div>
                         <div class="portfolio-item-content">
                             <h3 class="header">

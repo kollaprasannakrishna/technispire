@@ -6,7 +6,7 @@
             <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="footer-widget contact-widget">
                     <h4>
-                        <img src="assets/img/footer-logo.png" class="img-responsive" alt="Footer Logo" />
+                        <img alt="" src="assets/img/logo/technispire-new-logo_rao.png" class="img-responsive">
                     </h4>
                     <p>
                         At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium

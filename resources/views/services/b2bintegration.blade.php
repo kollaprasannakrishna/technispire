@@ -7,6 +7,7 @@
         @include('b2bIntegration.header')
         @include('b2bIntegration.intro')
         @include('b2bIntegration.features')
+        @include('b2bIntegration.content2')
         @include('b2bIntegration.experience')
 
     </div>

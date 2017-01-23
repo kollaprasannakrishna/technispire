@@ -3,8 +3,7 @@
     <div class="container">
         <div class="page-content">
             <!-- Start Service Section -->
-            <div class="row text-justify">
-                <h2 class="page-header text-center">Painless Seamless Integration!</h2>
+            <div class="row">
                 <!-- Start Service Icon 1 -->
                 <div class="col-md-4 col-sm-6" data-animation="fadeIn" data-animation-delay="01">
                     <div class="service-box">
@@ -14,12 +13,10 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Global Systems Management 
+                                Smooth to get started
                             </h4>
                             <p>
-                                Ensuring that external trading partner connectivity is highly available, this is critical to the smooth
-
-                                running of an integrated SAP/B2B environment.
+                                Sed libero. Phasellus leo dolor, tempus non, tempus non, auctoret, hendreit quis, nisi. Nunc egestas, augue at pellentesque.
                             </p>
                         </div>
                     </div>
@@ -34,12 +31,10 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Visibility, Alerting and Analytics –
+                                Very useful custom widget
                             </h4>
                             <p>
-                                SAP B2B Add-on provides business process visibility and exception-based monitoring for a
-
-                                business and its customers.
+                                Sed libero. Phasellus leo dolor, tempus non, tempus non, auctoret, hendreit quis, nisi. Nunc egestas, augue at pellentesque.
                             </p>
                         </div>
                     </div>
@@ -54,13 +49,10 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                SAP Connectivity 
+                                Psd layered file
                             </h4>
                             <p>
-                                B2B integration platforms must be connected to the
-                                numerous different instances of SAP running at local manufacturing
-                                plants, retail stores, shared service centers and headquarters
-                                locations. 
+                                Sed libero. Phasellus leo dolor, tempus non, tempus non, auctoret, hendreit quis, nisi. Nunc egestas, augue at pellentesque.
                             </p>
                         </div>
                     </div>
@@ -75,14 +67,10 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Data &amp; Process Intelligence 
+                                Attention to every plxel
                             </h4>
                             <p>
-                                Ideally, SAP systems can only
-                                operate efficiently and offer maximum ROI when they are fed with clean
-                                and accurate information. SAP PO uses a robust business rules engine
-                                based on over 150 of the most common supply chain-related SAP
-                                business rules. 
+                                Sed libero. Phasellus leo dolor, tempus non, tempus non, auctoret, hendreit quis, nisi. Nunc egestas, augue at pellentesque.
                             </p>
                         </div>
                     </div>
@@ -97,14 +85,10 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Mapping &amp; Translation 
+                                cool & flexible layout
                             </h4>
                             <p>
-                                Document mapping is one of the most
-                                complex tasks to undertake during an SAP to B2B integration project.
-                                Mapping experts must understand the relationships between data
-                                structures used by external trading partners and the information needed
-                                in SAP.
+                                Sed libero. Phasellus leo dolor, tempus non, tempus non, auctoret, hendreit quis, nisi. Nunc egestas, augue at pellentesque.
                             </p>
                         </div>
                     </div>
@@ -119,12 +103,10 @@
                         </div>
                         <div class="service-content">
                             <h4>
-                                Partner Onboarding 
+                                Super clean design
                             </h4>
                             <p>
-                                Most SAP projects are not purely technical in
-                                nature, functionality upgrades are usually the justification for
-                                investment.
+                                Sed libero. Phasellus leo dolor, tempus non, tempus non, auctoret, hendreit quis, nisi. Nunc egestas, augue at pellentesque.
                             </p>
                         </div>
                     </div>
@@ -138,6 +120,6 @@
             <!-- Divider -->
             <div class="hr1" style="margin-bottom:45px;"></div>
 
+            </div>
         </div>
     </div>
-</div>
